@@ -22,7 +22,7 @@
    Calculation: Sum of all pizzas sold.
    Visualization: Pie chart or column chart illustrating the distribution of pizza types sold.
 
-## Total Orders: The total number of orders received by the pizza business.
+## Total Orders: The total number of orders received by the pizza business
    Importance: Reflects the volume of transactions and customer engagement.
    Calculation: Count of all orders placed.
    Visualization: Line chart or bar chart showing the trend in order volume over time.
