@@ -12,7 +12,7 @@
     Calculation: Sum of all pizza sales revenue.
     Visualization: Line chart or column chart depicting revenue trends over time.
 
-### Average Order Value:  The average amount spent per order by customers.
+#### Average Order Value:  The average amount spent per order by customers.
    Importance: Reflects the purchasing behavior of customers and helps in understanding the spending patterns.
    Calculation: Total revenue divided by the total number of orders.
    Visualization: Bar chart or gauge showing the average order value.
