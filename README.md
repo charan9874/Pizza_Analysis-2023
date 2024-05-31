@@ -1,5 +1,5 @@
 # Pizza Analysis
-
+![Pizza logo](https://img.freepik.com/premium-photo/pizza-with-slice-being-taken-out-it_861605-5.jpg)
 ## Introduction:
 ### This report provides an analysis of pizza sales data utilizing Power BI, focusing on five key performance indicators (KPIs): 
 ### Total revenue, Average order value, Total pizzas sold, Total orders, and Average pizzas per order. 
